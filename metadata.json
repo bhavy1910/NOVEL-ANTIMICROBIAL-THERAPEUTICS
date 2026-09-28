@@ -1,0 +1,7 @@
+{
+  "name": "Novel Antimicrobial Therapeutics",
+  "description": "A cinematic, interactive scientific presentation exploring next-generation approaches to combat antimicrobial resistance: phage therapy, antimicrobial peptides, CRISPR-Cas targeting, anti-virulence, and precision nano-therapeutics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
